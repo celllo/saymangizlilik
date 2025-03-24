@@ -1,0 +1,25 @@
+**GİZLİLİK VE KİŞİSEL VERİLERİ KORUMA POLİTİKASI**
+
+Son Güncelleme: 24.03.2025
+
+Sayman olarak gizliliğinize önem veriyoruz. Bu gizlilik politikası, uygulamamızı kullandığınızda hangi bilgileri topladığımızı, nasıl kullandığımızı ve bu bilgileri nasıl koruduğumuzu açıklamaktadır.
+
+### 1. Toplanan Bilgiler
+Sayman uygulaması herhangi bir kişisel veri toplamamakta, saklamamakta ve işlememektedir. Uygulama, yalnızca kullanıcının belirttiği sayımları kaydetmek için cihaz üzerinde yerel depolamaya veri yazabilir.
+
+### 2. Kullandığımız Teknolojiler
+- **Yerel Depolama:** Kullanıcının saydığı öğeler yalnızca cihaz üzerinde saklanır ve dış bir sunucuya gönderilmez.
+- **Reklamlar:** Uygulama reklam içerebilir, ancak bu reklamlar kullanıcıya özel kişisel veriler toplanmadan gösterilir.
+
+### 3. Kullanicı Hakları
+- Kullanıcılar uygulamada oluşturdukları sayım verilerini istedikleri zaman silebilirler.
+- Sayman, herhangi bir şekilde kişisel veri toplamadığı için herhangi bir veri paylaşımı söz konusu değildir.
+
+### 4. Gizlilik Politikasi Güncellemeleri
+Sayman uygulamasının gizlilik politikaları zaman zaman güncellenebilir. Güncellemeler uygulama üzerinden duyurulacaktır.
+
+### 5. İletişim
+Gizlilik politikamız hakkında sorularınız için bizimle info@adimlayarakkazan.com üzerinden iletişime geçebilirsiniz.
+
+Sayman uygulamasını kullanarak bu Gizlilik Politikasını kabul etmiş sayılırsınız.
+
